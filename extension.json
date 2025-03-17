@@ -1,9 +1,7 @@
 {
-  "name": "Vscode Dark Plus Theme",
+  "name": "VS Code Dark Moon",
   "version": "0.0.1",
-  "authors": [
-    "d1y <chenhonzhou@gmail.com>"
-  ],
-  "description": "Portable Vscode Dark Plus Theme",
-  "repository": "https://github.com/d1y/vscode_dark_plus.zed"
+  "authors": ["sebkolind <sks1993@gmail.com>"],
+  "description": "",
+  "repository": "https://github.com/sebkolind/vscode_dark_moon.zed"
 }
